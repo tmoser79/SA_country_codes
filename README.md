@@ -1,0 +1,1 @@
+This Splunk supporting add-on contains "country_codes" lookup to translate between various country codes. It's based on ISO 3166 standard as defined on https://www.iso.org/iso-3166-country-codes.html.
